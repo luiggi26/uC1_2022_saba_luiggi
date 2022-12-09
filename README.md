@@ -1,5 +1,11 @@
-Microcontroladores I - Universidad Nacional de Piura
+Curso: Microcontroladores I
 
-En este cursos aboraremos codigos de programacion trabajados en Mplab con el lenguaje Assemble Xc8
+Autor: Luiggi Smith Saba Martinez
 
-Autour: Luiggi Smith Saba Martinez
+Tarjeta: Curiosity Nano PIC 18F57Q84
+
+Entorno: Mpalb X IDE
+
+Lenguaje: AMS-C
+
+UNIVERSIDAD NACIONAL DE PIURA, PERU
